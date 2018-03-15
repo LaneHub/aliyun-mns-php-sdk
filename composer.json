@@ -1,19 +1,15 @@
 {
-    "name": "weiheinc/aliyun-mns-php-sdk",
-    "description": "Aliyun MNS SDK for PHP",
-    "keywords": [ "aliyun", "MNS", "sdk" ],
+    "name": "weiheinc/aliyun-mns",
+    "description": "aliyun mns sdk",
     "type": "library",
-    "license": "Apache-2.0",
-    "homepage": "https://www.aliyun.com/product/mns",
+    "license": "MIT",
+    "minimum-stability": "dev",
     "authors": [
         {
-            "name": "Aliyuncs",
-            "homepage": "https://www.aliyun.com"
+            "name": "yy",
+            "email": "yy@weiheinc.com"
         }
     ],
-    "require": {
-        "php": ">=5.5.0"
-    },
     "autoload": {
         "files": ["src/mns-autoloader.php"]
     }
