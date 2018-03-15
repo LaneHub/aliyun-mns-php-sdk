@@ -1,5 +1,5 @@
 {
-    "name": "weiheinc/aliyun-mns",
+    "name": "weiheinc/aliyun-mns-php-sdk",
     "description": "aliyun mns sdk",
     "type": "library",
     "license": "MIT",
