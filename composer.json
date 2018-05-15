@@ -10,6 +10,9 @@
             "email": "yy@weiheinc.com"
         }
     ],
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
     "autoload": {
         "files": ["src/mns-autoloader.php"]
     }
